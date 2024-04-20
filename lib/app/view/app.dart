@@ -6,7 +6,7 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) => const MaterialApp(
         title: 'Counter App',
-        home: MyHomePage(title: 'Counter App Home Page'),
+        home: MyHomePage(title: 'Flutter App Home Page'),
       );
 }
 
